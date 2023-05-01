@@ -30,7 +30,7 @@
 
 
 <h2>Before this learning dairy: </h2>
-I made many WordPress websites for clients, and I learned HTML and CSS basics. I coded very little, with the help of Google.
+I made some WordPress websites for clients, and I learned HTML and CSS basics. I coded very little, with the help of Google.
 
 <h3>Other learned skills:</h3>
 <ul>
