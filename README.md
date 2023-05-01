@@ -16,6 +16,8 @@
 
 2023.04.24. CSS practice
 
+2023.04.23. CSS practice
+
 2023.04.22. HTML repetition
 
 2023.04.21. Leisure time
