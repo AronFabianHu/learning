@@ -1,5 +1,7 @@
 <h1>My learning dairy:</h1>
 
+2023.05.02. Bootstrap learning 
+
 2023.05.01. Bootstrap learning 
 
 2023.04.30. Bootstrap learning 
@@ -38,4 +40,5 @@ I made some WordPress websites for clients, and I learned HTML and CSS basics. I
 <ul>
 <li>Photoshop</li>
 <li>Illustrator</li>
+
 </ul>
