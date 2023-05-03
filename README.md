@@ -1,5 +1,7 @@
 <h1>My learning dairy:</h1>
 
+2023.05.02. CSS & HTML practice
+
 2023.05.02. Bootstrap learning 
 
 2023.05.01. Bootstrap learning 
