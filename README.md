@@ -2,7 +2,7 @@
 
 2023.06.13. JavaScript learning
 
-
+2023.06.12. Leisure time
 
 2023.06.11. JavaScript learning
 
