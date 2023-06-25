@@ -1,5 +1,7 @@
 <h1>My learning dairy:</h1>
 
+2023.06.25. JavaScript learning
+
 2023.06.24. Leisure time
 
 2023.06.23. Leisure time
