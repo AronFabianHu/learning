@@ -6,6 +6,10 @@
 
 2023.08.08. JavaScript learning 
 
+--------------------------------
+2023.07.31 - 2023.08.07. Holiday
+-------------------------------
+
 2023.07.30. JavaScript learning
 
 2023.07.29. JavaScript learning
