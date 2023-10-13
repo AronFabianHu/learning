@@ -1,8 +1,36 @@
 <h1>My learning dairy:</h1>
 
+2023.10.13. JavaScript learning
+
+2023.10.12. Leisure time
+
+2023.10.11. Leisure time
+
+2023.10.10. Leisure time
+
+2023.10.09. Leisure time
+
+2023.10.08. Leisure time
+
+2023.10.07. Leisure time
+
+2023.10.06. Leisure time
+
 2023.10.05. Leisure time
 
 2023.10.04. Leisure time
+
+2023.10.03. Leisure time
+
+2023.10.02. JavaScript learning
+
+2023.10.01. JavaScript learning
+
+2023.09.30. JavaScript learning
+
+2023.09.29. JavaScript learning
+
+2023.09.28. Leisure time
 
 2023.09.27. Leisure time
 
