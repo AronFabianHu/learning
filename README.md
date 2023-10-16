@@ -4,7 +4,7 @@
 
 2023.10.14. JavaScript learning
 
-2023.10.13. JavaScript learning
+2023.1 0.13. JavaScript learning
 
 2023.10.12. Leisure time
 
