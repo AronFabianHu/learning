@@ -1,5 +1,7 @@
 <h1>My learning dairy:</h1>
 
+2023.11.02. Node.js learning
+
 2023.11.01. terminal learning
 
 2023.10.30. terminal learning
