@@ -1,6 +1,9 @@
 <h1>My learning dairy:</h1>
 
-2023.11.05. Node.js gkglearning
+
+2023.11.06. Node.js learning
+
+2023.11.05. Node.js learning
 
 2023.11.04. Leisure time
 
