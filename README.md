@@ -1,5 +1,7 @@
 <h1>My learning dairy:</h1>
 
+2023.12.04. Wordpress website maintanence
+
 2023.12.03. Leisure time
 
 2023.12.02. CSS practice
