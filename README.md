@@ -1,5 +1,7 @@
 <h1>My learning dairy:</h1>
 
+2023.12.06. Leisure time
+
 2023.12.05. Leisure time
 
 2023.12.04. Wordpress website maintanence
