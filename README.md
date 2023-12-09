@@ -8,7 +8,7 @@
 
 2023.12.05. Leisure time
 
-2023.12.04. Wordpress website maintanence
+2023.12.04.  Wordpress website maintanence
 
 2023.12.03. Leisure time
 
