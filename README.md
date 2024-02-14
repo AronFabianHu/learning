@@ -1,5 +1,7 @@
 <h1>My learning dairy:</h1>
 
+2024.02.14. Lesiure time
+
 2024.02.13. Lesiure time
 
 2024.02.12. Lesiure time
